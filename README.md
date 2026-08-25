@@ -107,8 +107,8 @@ Coffee Maker was the highest-revenue product, generating approximately **₹2.65
 
 ## 🖥️ Dashboard Preview
 
-![Sales & Operations Dashboard](screenshots/Sales-Dasboard-1.png)
-![Sales & Operations Dashboard](screenshots/Sales-Dashboard-2.png)
+![Sales & Operations Dashboard](screenshots/Sales-Dashboard-1.png)
+![Sales & Operations Dashboard](screenshots/Sales-Dasboard-2.png)
 
 ---
 
