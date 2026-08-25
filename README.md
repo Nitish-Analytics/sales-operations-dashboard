@@ -121,4 +121,5 @@ sales-operations-dashboard/
 ├── Sales_Operations_Dashboard.xlsx
 │
 └── screenshots/
-    └── dashboard.png
+    └── dashboard-1.png
+    └── dashboard-2.png
